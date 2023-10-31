@@ -42,6 +42,8 @@ public class Main {
                     System.out.println("#2 – The Sicilian Defense: \n Defense for Black against 1.e4 \n Opening moves: 1.e4 c5");
                     System.out.println("#3 – The Queen's Gambit Declined: \n Defense against 1.d4 as Black, common starting point for \n a 1.d4 repertoire as White \n Opening moves: 1.d4 d5 2.c4 e6");
                     break;
+            }
+        }
         prompt.close();
     }
 }
